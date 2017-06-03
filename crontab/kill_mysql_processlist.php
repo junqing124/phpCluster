@@ -1,6 +1,5 @@
 <?php
 @include_once( "/home/www/phpCluster/include/common.inc.php" );
-@include_once( "../include/common.inc.php" );
 $cls_data_mc = new cls_data('c_mysql_config');
 $mc_id = $argv[1];
 $kill_sec = $argv[2];
@@ -25,7 +24,7 @@ if( !$ssh->login( $mysql_info['lc_user'], $mysql_info['lc_password'] ) )
         $tmp = explode( "\t", $list_str );
         $cur_time = intval( $tmp[5] );
         $cur_id = $tmp[0];
-        $sql = $tmp[7];
+        $sql = trim( $tmp[7] );
         if( $cur_time >= $kill_sec )
         {
             $cmd = "mysql -h {$mysql_info['mc_host']} -u{$mysql_info['mc_user']} -p{$mysql_info['mc_password']} -e 'kill {$cur_id}'";
@@ -36,9 +35,17 @@ if( !$ssh->login( $mysql_info['lc_user'], $mysql_info['lc_password'] ) )
                 'cmkd_thread_id'=> $cur_id,
                 'cmkd_host'=> $mysql_info['mc_host'],
             );
+            //只kill select
+            if( 'SELECT' != strtoupper( substr( $sql, 0, 6 ) ) )
+            {
+                $info_detail['cmkd_is_killed'] = 0;
+            }else
+            {
+                $msg = $ssh->exec($cmd);
+                $info_detail['cmkd_is_killed'] = 1;
+            }
             $cls_data_mkd = new cls_data('c_mysql_kill_detail');
             $cls_data_mkd->insert_ex( $info_detail );
-            $msg = $ssh->exec($cmd);
         }
     }
 }

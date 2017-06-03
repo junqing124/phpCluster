@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 03, 2017 at 12:50 PM
+-- Generation Time: Jun 03, 2017 at 04:48 PM
 -- Server version: 5.6.25-log
 -- PHP Version: 5.4.16
 
@@ -70,8 +70,9 @@ CREATE TABLE IF NOT EXISTS `c_mysql_kill_detail` (
   `cmkd_kill_sec` int(11) NOT NULL,
   `cmkd_thread_id` int(11) NOT NULL,
   `cmkd_host` varchar(50) NOT NULL,
+  `cmkd_is_killed` tinyint(4) NOT NULL DEFAULT '1',
   PRIMARY KEY (`cmkd_id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=6 ;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
