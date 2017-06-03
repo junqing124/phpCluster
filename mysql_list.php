@@ -90,7 +90,7 @@ $mysql_list = $cls_data_mc->select_ex();
                         <?php
                             if( 'mysql_auto_killed' == $action )
                             {
-                                echo "<br>请改crontab/kill_mysql_processlist.php里的第二行的路径后，在crontab -e添加:<br>*/1 * * * * php 文件目录/crontab/kill_mysql_processlist.php {$id} 60";
+                                echo "<br>在crontab -e添加:<br>*/1 * * * * php " . __DIR__ . "/crontab/kill_mysql_processlist.php {$id} 60";
                                 echo '<br>后面的60表示自动kill运行多久的process';
                             }
                         ?>
