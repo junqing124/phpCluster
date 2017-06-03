@@ -32,14 +32,17 @@ require_once( WEB_INCLUDE . '/config.common.php' );
 header( 'Content-type:text/html;charset=' . $web_code );
 
 //sqlite的sqlite_escape_string
-function my_sqlite_escape_string( $str )
+if( !function_exists( 'my_sqlite_escape_string' ) )
 {
-    if( !empty( $str ) )
+    function my_sqlite_escape_string( $str )
     {
-        return str_replace( "'", "''", $str );
-    } else
-    {
-        return '';
+        if( !empty( $str ) )
+        {
+            return str_replace( "'", "''", $str );
+        } else
+        {
+            return '';
+        }
     }
 }
 
