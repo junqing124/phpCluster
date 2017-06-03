@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69dd716e-208d-4188-8bc1-e262c6f2d52c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/refresh_mysql_processlist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crontab/kill_mysql_processlist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log_processlist_killed.php" />
+    </list>
+    <ignored path="phpCluster.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="phpCluster" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-45.833332">
+              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1496475745965" expanded="true" signature="947:1091" placeholder="select mc_ho... c_mysql_config" />
+                <marker date="1496475745965" expanded="true" signature="4620:7731" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="4650:6947" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="4686:4972" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="4735:4881" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5039:6936" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5078:6921" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5100:6900" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5123:5537" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5150:5247" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5274:5350" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5377:5513" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5560:5975" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5587:5685" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5712:5788" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5815:5951" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="5998:6415" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="6025:6125" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="6152:6228" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="6255:6391" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="6438:6856" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="6465:6566" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="6593:6669" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="6696:6832" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="6977:7724" placeholder="..." />
+                <marker date="1496475745965" expanded="true" signature="7063:7713" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kill_mysql_processlist.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crontab/kill_mysql_processlist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.066667">
+              <caret line="28" column="77" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="77" />
+              <folding>
+                <marker date="1496492594491" expanded="true" signature="190:388" placeholder="select mc_id... c_mysql_config" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.9">
+              <caret line="109" column="44" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log_processlist_killed.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log_processlist_killed.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4044944">
+              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.db.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/include/config.db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.11273957">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templete/dgfp_42_hr/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.833333">
+              <caret line="112" column="23" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="refresh_mysql_processlist.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax/refresh_mysql_processlist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.066667">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <marker date="1496473376071" expanded="true" signature="190:372" placeholder="select mc_id... c_mysql_config" />
+                <marker date="1496473376071" expanded="true" signature="190:380" placeholder="select mc_id... c_mysql_config" />
+                <marker date="1496473376071" expanded="true" signature="190:388" placeholder="select mc_id... c_mysql_config" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql_list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql_list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.733333">
+              <caret line="93" column="88" selection-start-line="93" selection-start-column="88" selection-end-line="93" selection-end-column="88" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#label#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#form#1;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linux_list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linux_list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.8202247">
+              <caret line="88" column="82" selection-start-line="88" selection-start-column="82" selection-end-line="88" selection-end-column="141" />
+              <folding>
+                <marker date="1496472141662" expanded="true" signature="4764:4773" placeholder="..." />
+                <marker date="1496472141662" expanded="true" signature="4915:4926" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/stylesheets/theme.css" />
+        <option value="$PROJECT_DIR$/include/config.common.php" />
+        <option value="$PROJECT_DIR$/include/class/class.db.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/mysql_config.php" />
+        <option value="$PROJECT_DIR$/phpinfo.php" />
+        <option value="$PROJECT_DIR$/include/common.inc.php" />
+        <option value="$PROJECT_DIR$/linux_list.php" />
+        <option value="$PROJECT_DIR$/ajax/refresh_mysql_processlist.php" />
+        <option value="$PROJECT_DIR$/ajax/kill_mysql_processlist.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/crontab/kill_mysql_processlist.php" />
+        <option value="$PROJECT_DIR$/log_processlist_killed.php" />
+        <option value="$PROJECT_DIR$/mysql_list.php" />
+        <option value="$PROJECT_DIR$/include/config.db.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crontab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ajax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\phpCluster\crontab" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\phpCluster" />
+      <recent name="F:\phpCluster\ajax" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69dd716e-208d-4188-8bc1-e262c6f2d52c" name="Default" comment="" />
+      <created>1496390676006</created>
+      <option name="number" value="Default" />
+      <updated>1496390676006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26638478" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1496475745965" expanded="true" signature="947:1091" placeholder="select mc_ho... c_mysql_config" />
+            <marker date="1496475745965" expanded="true" signature="4620:7731" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="4650:6947" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="4686:4972" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="4735:4881" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5039:6936" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5078:6921" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5100:6900" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5123:5537" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5150:5247" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5274:5350" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5377:5513" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5560:5975" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5587:5685" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5712:5788" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5815:5951" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5998:6415" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6025:6125" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6152:6228" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6255:6391" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6438:6856" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6465:6566" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6593:6669" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6696:6832" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6977:7724" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="7063:7713" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="115" column="43" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#label#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#form#1;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/config.db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/common.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/config.common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16528925">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/config.common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/class/class.db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-67.833336">
+          <caret line="647" column="0" selection-start-line="647" selection-start-column="0" selection-end-line="647" selection-end-column="0" />
+          <folding>
+            <marker date="1496418886540" expanded="true" signature="9408:9454" placeholder="select ${{$f... " />
+            <marker date="1496418886540" expanded="true" signature="9513:9539" placeholder="select ${{$f... " />
+            <marker date="1496418886540" expanded="true" signature="12472:12563" placeholder="..." />
+            <marker date="1496418886540" expanded="true" signature="12577:12643" placeholder="..." />
+            <marker date="1496418886540" expanded="true" signature="12702:12804" placeholder="..." />
+            <marker date="1496418886540" expanded="true" signature="12817:12862" placeholder="..." />
+            <marker date="1496418886540" expanded="true" signature="12881:12891" placeholder="..." />
+            <marker date="1496418886540" expanded="true" signature="13019:13029" placeholder="..." />
+            <marker date="1496418886540" expanded="true" signature="13103:13113" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templete/dgfp_42_hr/users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="136" column="11" selection-start-line="136" selection-start-column="8" selection-end-line="258" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6666667">
+          <caret line="1324" column="12" selection-start-line="1324" selection-start-column="1" selection-end-line="1324" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8333333">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/common.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.833333">
+          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8333335">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8202247">
+          <caret line="88" column="82" selection-start-line="88" selection-start-column="82" selection-end-line="88" selection-end-column="141" />
+          <folding>
+            <marker date="1496472141662" expanded="true" signature="4764:4773" placeholder="..." />
+            <marker date="1496472141662" expanded="true" signature="4915:4926" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/refresh_mysql_processlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.066667">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <marker date="1496473376071" expanded="true" signature="190:372" placeholder="select mc_id... c_mysql_config" />
+            <marker date="1496473376071" expanded="true" signature="190:380" placeholder="select mc_id... c_mysql_config" />
+            <marker date="1496473376071" expanded="true" signature="190:388" placeholder="select mc_id... c_mysql_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-45.833332">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1496475745965" expanded="true" signature="947:1091" placeholder="select mc_ho... c_mysql_config" />
+            <marker date="1496475745965" expanded="true" signature="4620:7731" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="4650:6947" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="4686:4972" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="4735:4881" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5039:6936" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5078:6921" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5100:6900" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5123:5537" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5150:5247" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5274:5350" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5377:5513" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5560:5975" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5587:5685" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5712:5788" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5815:5951" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="5998:6415" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6025:6125" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6152:6228" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6255:6391" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6438:6856" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6465:6566" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6593:6669" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6696:6832" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="6977:7724" placeholder="..." />
+            <marker date="1496475745965" expanded="true" signature="7063:7713" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templete/dgfp_42_hr/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.833333">
+          <caret line="112" column="23" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.9">
+          <caret line="109" column="44" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_processlist_killed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4044944">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crontab/kill_mysql_processlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.066667">
+          <caret line="28" column="77" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="77" />
+          <folding>
+            <marker date="1496492594491" expanded="true" signature="190:388" placeholder="select mc_id... c_mysql_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.733333">
+          <caret line="93" column="88" selection-start-line="93" selection-start-column="88" selection-end-line="93" selection-end-column="88" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#label#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#form#1;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/config.db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11273957">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
