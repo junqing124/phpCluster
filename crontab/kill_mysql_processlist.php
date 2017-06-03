@@ -1,7 +1,9 @@
 <?php
-@include_once( "/home/www/include/common.inc.php" );
+@include_once( "/home/www/phpCluster/include/common.inc.php" );
 @include_once( "../include/common.inc.php" );
 $cls_data_mc = new cls_data('c_mysql_config');
+$mc_id = $argv[1];
+$kill_sec = $argv[2];
 $mysql_info = $cls_data_mc->execute( "select mc_id,mc_host,mc_user,mc_password,lc_id,lc_host,lc_user,lc_password from c_mysql_config inner join c_linux_config on mc_host=lc_host where mc_is_index_processlist=1 and mc_id={$mc_id} limit 1" );
 $mysql_info = $mysql_info[0];
 
