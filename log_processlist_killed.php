@@ -1,6 +1,5 @@
 <?php
-@include_once( "/home/www/include/common.inc.php" );
-@include_once( "include/common.inc.php" );
+include_once( "include/common.inc.php" );
 $page_title = '被killed的列表';
 $cls_data_mkd = new cls_data('c_mysql_kill_detail');
 $mkd_list = $cls_data_mkd->select_ex( array( 'order'=> 'cmkd_id desc' ) );

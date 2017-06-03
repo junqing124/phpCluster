@@ -1,6 +1,5 @@
 <?php
-@include_once( "/home/www/include/common.inc.php" );
-@include_once( "include/common.inc.php" );
+include_once( "include/common.inc.php" );
 $page_title = 'Mysql列表';
 $cls_data_mc = new cls_data('c_mysql_config');
 if( 'mysql_add' == $action )
