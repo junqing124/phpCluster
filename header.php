@@ -11,12 +11,12 @@ if (empty($page_title))
 <meta name="description" content="">
 <meta name="author" content="">
 
-<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="../lib/bootstrap/css/bootstrap.css">
 
-<link rel="stylesheet" type="text/css" href="stylesheets/theme.css">
-<link rel="stylesheet" href="lib/font-awesome/css/font-awesome.css">
+<link rel="stylesheet" type="text/css" href="../stylesheets/theme.css">
+<link rel="stylesheet" href="../lib/font-awesome/css/font-awesome.css">
 
-<script src="lib/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="../lib/jquery-1.7.2.min.js" type="text/javascript"></script>
 
 <!-- Demo page code -->
 
@@ -96,17 +96,18 @@ if (empty($page_title))
 <div class="sidebar-nav">
     <a href="#dashboard-menu" class="nav-header" data-toggle="collapse"><i class="icon-dashboard"></i>Dashboard</a>
     <ul id="dashboard-menu" class="nav nav-list collapse in">
-        <li><a href="index.php">首页</a></li>
+        <li><a href="/index.php">首页</a></li>
+        <li><a href="/dashboard/linux_status.php">Linux各状态</a></li>
     </ul>
 
     <a href="#error-menu" class="nav-header" data-toggle="collapse"><i class="icon-exclamation-sign"></i>配置 </a>
     <ul id="error-menu" class="nav nav-list collapse in">
-        <li ><a href="mysql_list.php">Mysql</a></li>
-        <li ><a href="linux_list.php">Linux</a></li>
+        <li ><a href="/config/mysql_list.php">Mysql</a></li>
+        <li ><a href="/config/linux_list.php">Linux</a></li>
     </ul>
 
     <a href="#legal-menu" class="nav-header" data-toggle="collapse"><i class="icon-exclamation-sign"></i>日志 </a>
     <ul id="legal-menu" class="nav nav-list collapse in">
-        <li ><a href="log_processlist_killed.php">自动kill的processlist</a></li>
+        <li ><a href="/log/log_processlist_killed.php">自动kill的processlist</a></li>
     </ul>
 </div>

@@ -1,5 +1,5 @@
 <?php
-include_once( "include/common.inc.php" );
+include_once( "../include/common.inc.php" );
 $page_title = 'Mysql列表';
 $cls_data_mc = new cls_data('c_mysql_config');
 if( 'mysql_add' == $action )
@@ -40,6 +40,10 @@ if( 'mysql_edit' == $action )
     $cls_data_mc->update_one( $info, "mc_id={$id}" );
     echo $cls_data_mc->get_last_sql();
 }
+if( 'mysql_del' == $action )
+{
+    $linux_info_detail = $cls_data_mc->delete_ex( "mc_id={$id}" );
+}
 if( 'mysql_edit_detail' == $action )
 {
     $mysql_info_detail = $cls_data_mc->select_one_ex( array( 'where'=> "mc_id={$id}" ) );
@@ -59,7 +63,7 @@ $mysql_list = $cls_data_mc->select_ex();
 ?>
 <!DOCTYPE html>
 <html lang="en">
-    <?php require_once('header.php');?>
+    <?php require_once( '../header.php' );?>
     <div class="content">
 
         <div class="header">
@@ -123,6 +127,7 @@ $mysql_list = $cls_data_mc->select_ex();
                             <td><label><input name="fresh_index_processlist[<?php echo $mysql_info['mc_id'] ?>]" style="width: 30px;" value="<?php echo $mysql_info['mc_refresh_processlist_sec'] ?>">秒</label></td>
                             <td>
                                 <a href="?action=mysql_edit_detail&id=<?php echo $mysql_info['mc_id'] ?>">修改</a>
+                                <a onclick="return confirm('确定删除[<?php echo $mysql_info['mc_host']; ?>]?')" href="?action=mysql_del&id=<?php echo $mysql_info['mc_id'] ?>">删除</a>
                                 <a href="?action=mysql_auto_killed&id=<?php echo $mysql_info['mc_id'] ?>">自动kill长时间运行的mysql thread</a>
                             </td>
                         </tr>
@@ -136,11 +141,7 @@ $mysql_list = $cls_data_mc->select_ex();
         </div>
     </div>
     <?php
-    require_once('footer.php');
+    require_once( '../footer.php' );
     ?>
-
-
-
-    
   </body>
 </html>

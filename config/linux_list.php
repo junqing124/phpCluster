@@ -1,5 +1,5 @@
 <?php
-include_once( "include/common.inc.php" );
+include_once( "../include/common.inc.php" );
 
 $page_title = 'Linux列表';
 $cls_data_lc = new cls_data('c_linux_config');
@@ -28,6 +28,10 @@ if( 'linux_add' == $action )
 if( 'linux_edit_detail' == $action )
 {
     $linux_info_detail = $cls_data_lc->select_one_ex( array( 'where'=> "lc_id={$id}" ) );
+}
+if( 'linux_del' == $action )
+{
+    $linux_info_detail = $cls_data_lc->delete_ex( "lc_id={$id}" );
 }
 if( 'linux_edit' == $action )
 {
@@ -59,7 +63,7 @@ $linux_list = $cls_data_lc->select_ex();
 ?>
 <!DOCTYPE html>
 <html lang="en">
-    <?php require_once('header.php');?>
+    <?php require_once( '../header.php' );?>
     <div class="content">
         
         <div class="header">
@@ -86,6 +90,7 @@ $linux_list = $cls_data_lc->select_ex();
                         用户:<input name="linux_user" value="<?php echo $linux_info_detail['lc_user'] ?>" class="input-small" type="text">
                         密码:<input name="linux_password" value="" class="input-small" type="text">
                         <button class="btn btn-primary"><i class="icon-plus"></i> <?php echo 'linux_edit_detail' == $action ? '修改' : '添加'; ?></button>
+                        Linux主机请改/etc/ssh/sshd_config里的UseDns为no，加快连接速度
                     </form>
                     <form action="#" method="post">
                         <input type="hidden" value="linux_config" name="action">
@@ -94,7 +99,7 @@ $linux_list = $cls_data_lc->select_ex();
                         <tr>
                             <th>ID</th>
                             <th>地址</th>
-                            <th>通过</th>
+                            <th>SSH测试</th>
                             <!--<th>首页显示processlist</th>
                             <th>首页自动刷新processlist</th>-->
                             <th>操作</th>
@@ -122,7 +127,10 @@ $linux_list = $cls_data_lc->select_ex();
                                 }
                                 ?>
                             </td>
-                            <td><a href="?action=linux_edit_detail&id=<?php echo $linux_info['lc_id'] ?>">修改</a></td>
+                            <td>
+                                <a href="?action=linux_edit_detail&id=<?php echo $linux_info['lc_id'] ?>">修改</a>
+                                <a onclick="return confirm('确定删除<?php echo $mysql_info['lc_host'] ?>?')" href="?action=linux_del&id=<?php echo $linux_info['lc_id'] ?>">删除</a>
+                            </td>
                         </tr>
                                 <?php } ?>
                         </tbody>
@@ -134,7 +142,7 @@ $linux_list = $cls_data_lc->select_ex();
         </div>
     </div>
     <?php
-    require_once('footer.php');
+    require_once( 'footer.php' );
     ?>
 
 
