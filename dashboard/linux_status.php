@@ -6,7 +6,7 @@ $type = $type ? $type : 'top';
 switch( $type )
 {
     case 'top':
-        $cmd = 'top -bcn 1';
+        $cmd = 'top -bn 1';
         break;
     case 'df':
         $cmd = 'df';
@@ -67,7 +67,7 @@ switch( $type )
                     $percent = floatval( $tmp[4] );
                     if( $percent > 90 )
                     {
-                        array_push( $result, "{$tmp[5]}:{$tmp[4]}" );
+                        array_push( $result, array( 'msg'=> "{$tmp[5]}:{$tmp[4]}" ) );
                     }
                 }
             }
@@ -76,14 +76,15 @@ switch( $type )
                 $list = explode( "\n", $msg );
                 if( $list )
                 {
-                    array_push( $result, $list[0] );
-                    array_push( $result, $list[1] );
-                    array_push( $result, $list[2] );
-                    array_push( $result, $list[3] );
-                    array_push( $result, $list[4] );
-                    array_push( $result, '<hr>' );
+                    array_push( $result, array( 'msg'=> $list[0] ) );
+                    array_push( $result, array( 'msg'=> $list[1] ) );
+                    array_push( $result, array( 'msg'=> $list[2] ) );
+                    array_push( $result, array( 'msg'=> $list[3] ) );
+                    array_push( $result, array( 'msg'=> $list[4] ) );
+                    array_push( $result, array( 'msg'=> '<hr>' ) );
                     for( $i = 7; $i < count( $list ); $i ++ )
                     {
+                        $color = '';
                         $tmp = preg_split( "/\s+/", $list[$i] );
                         $cpu_num = $tmp[0] ? $tmp[8] : $tmp[9];
                         $memory_num = $tmp[0] ? $tmp[9] : $tmp[10];
@@ -91,7 +92,11 @@ switch( $type )
                         $cmd_str = $tmp[0] ? $tmp[11] : $tmp[12];
                         if( $cpu_num > 0.01 || $memory_num > 0.01 )
                         {
-                            array_push( $result, "{$cmd_str}-{$user}-CPU:{$cpu_num}-MEM:{$memory_num}" );
+                            if( $cpu_num > 0.5 || $memory_num > 0.5 )
+                            {
+                                $color = 'red';
+                            }
+                            array_push( $result, array( 'color'=> $color, 'msg'=> "{$cmd_str}-{$user}-CPU:{$cpu_num}%-MEM:{$memory_num}%" ) );
                         }
                     }
                 }
@@ -108,16 +113,17 @@ switch( $type )
                         <?php
                         //var_dump( $cmd );
                         //分析各种形态的数据
-                        foreach( $result as $info_str )
+                        foreach( $result as $str_info )
                         {
-                            if( $info_str )
+                            //p_r( $str_info );
+                            if( $str_info['msg'] )
                             {
-                                if( '<hr>' == $info_str )
+                                if( '<hr>' == $str_info['msg'] )
                                 {
                                     echo '<hr style="margin:10px 0;padding:0;">';
                                 }else
                                 {
-                                    echo $info_str;
+                                    echo "<span style='color:{$str_info['color']}'>{$str_info['msg']}</span>";
                                     echo '<br>';
                                 }
                             }

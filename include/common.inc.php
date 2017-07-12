@@ -24,7 +24,7 @@ $magic_quotes = get_magic_quotes_gpc();
 @ini_set( 'session.auto_start', 0 );
 @ini_set( 'display_errors', 1 );
 ini_set( "display_errors", 'On' );
-error_reporting( E_ALL ^ E_NOTICE );
+error_reporting( E_ALL ^ E_NOTICE ^ E_WARNING );
 //echo WEB_INCLUDE;
 //配置文件
 require_once( WEB_INCLUDE . '/app.info.php' );

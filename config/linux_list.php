@@ -142,7 +142,7 @@ $linux_list = $cls_data_lc->select_ex();
         </div>
     </div>
     <?php
-    require_once( 'footer.php' );
+    require_once( '../footer.php' );
     ?>
 
 

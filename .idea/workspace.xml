@@ -2,599 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69dd716e-208d-4188-8bc1-e262c6f2d52c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/140x140.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/170x170.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black-Linen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/blue-paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/extra_clean_paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/furley_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/subtle_surface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/FontAwesome-Vectors.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/FontAwesome.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/museo_slab_300-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/museo_slab_300-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/museo_slab_500-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/museo_slab_500-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/proximanova-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/proximanova-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/ico/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_2694e8_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_3d80b3_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_72a7cf_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/FontAwesome-Vectors.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/FontAwesome.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/museo_slab_300-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/museo_slab_300-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/museo_slab_500-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/museo_slab_500-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/proximanova-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/proximanova-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/ico/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_2694e8_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_3d80b3_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_72a7cf_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/images/140x140.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/images/170x170.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/images/black-Linen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/images/blue-paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/images/extra_clean_paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/images/furley_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/images/subtle_surface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/FontAwesome-Vectors.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/FontAwesome.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/museo_slab_300-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/museo_slab_300-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/museo_slab_500-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/museo_slab_500-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/proximanova-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/proximanova-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/ico/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_2694e8_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_3d80b3_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_72a7cf_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/FontAwesome-Vectors.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/FontAwesome.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/museo_slab_300-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/museo_slab_300-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/museo_slab_500-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/museo_slab_500-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/proximanova-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/proximanova-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/ico/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/phpCluster.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/refresh_mysql_processlist.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crontab/kill_mysql_processlist.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/app.info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/class/class.app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/class/class.data.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/class/class.db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/class/class.safe.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/common.func.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/common.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/config.common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/config.db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/AES.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/Blowfish.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/DES.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/Hash.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/RC2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/RC4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/RSA.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/Random.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/Rijndael.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/TripleDES.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Crypt/Twofish.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/File/ANSI.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/File/ASN1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/File/X509.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Math/BigInteger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Net/SCP.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Net/SFTP.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Net/SFTP/Stream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Net/SSH1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/Net/SSH2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/System/SSH/Agent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/System/SSH_Agent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/third_class/phpseclib/openssl.cnf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/css/site.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/backbone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/index/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/prettify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/js/underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/font-site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/accordion.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/hero-unit.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/labels-badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/layouts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/reset.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/responsive-1200px-min.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/responsive-767px-max.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/responsive-768px-979px.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/responsive-navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/responsive.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/sprites.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/twbs-203/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/sass/font-awesome.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/sass/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/GPL-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/agenda-views.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/basic-views.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/cupertino/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/external-dragging.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/gcal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/json-events.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/json.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/selectable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/demos/theme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/fullcalendar/gcal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/jquery/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fullcalendar-1.5.3/jquery/jquery-ui-1.8.17.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-1.7.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-1.8.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/css/site.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/backbone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/index/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/prettify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/js/underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/font-site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/accordion.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/hero-unit.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/labels-badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/layouts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/reset.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-1200px-min.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-767px-max.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-768px-979px.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/sprites.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/twbs-203/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/sass/font-awesome.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/font-awesome/sass/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/GPL-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/agenda-views.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/basic-views.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/cupertino/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/external-dragging.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/gcal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/json-events.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/json.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/selectable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/demos/theme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/fullcalendar/gcal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/jquery/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/fullcalendar-1.5.3/jquery/jquery-ui-1.8.17.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/jquery-1.7.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib/jquery-1.8.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linux_list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log_processlist_killed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql_list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpinfo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/elements.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/403.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/503.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/calendar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/css/site.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/backbone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/index/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/prettify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/js/underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/font-site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/accordion.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/hero-unit.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/labels-badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/layouts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/reset.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/responsive-1200px-min.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/responsive-767px-max.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/responsive-768px-979px.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/responsive-navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/responsive.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/sprites.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/twbs-203/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/sass/font-awesome.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/font-awesome/sass/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/GPL-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/agenda-views.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/basic-views.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/cupertino/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/external-dragging.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/gcal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/json-events.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/json.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/selectable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/demos/theme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/fullcalendar/fullcalendar.print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/fullcalendar/gcal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/jquery/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/fullcalendar-1.5.3/jquery/jquery-ui-1.8.17.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/jquery-1.7.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/jquery-1.8.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/css/site.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/backbone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/index/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/prettify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/tw-bs-201/bootstrap-typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/js/underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/font-site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/accordion.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/hero-unit.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/labels-badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/layouts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/reset.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-1200px-min.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-767px-max.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-768px-979px.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/responsive.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/sprites.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/twbs-203/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/sass/font-awesome.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/font-awesome/sass/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/agenda-views.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templete/dgfp_42_hr/lib/lib/fullcalendar-1.5.3/demos/basic-views.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/linux_list.php" afterPath="$PROJECT_DIR$/config/linux_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crontab/kill_mysql_processlist.php" afterPath="$PROJECT_DIR$/crontab/kill_mysql_processlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/linux_status.php" afterPath="$PROJECT_DIR$/dashboard/linux_status.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/common.inc.php" afterPath="$PROJECT_DIR$/include/common.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/config.db.php" afterPath="$PROJECT_DIR$/include/config.db.php" />
     </list>
     <ignored path="phpCluster.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -619,49 +32,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-45.833332">
-              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+            <state vertical-scroll-proportion="-0.8333333">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1496475745965" expanded="true" signature="947:1091" placeholder="select mc_ho... c_mysql_config" />
-                <marker date="1496475745965" expanded="true" signature="4620:7731" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="4650:6947" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="4686:4972" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="4735:4881" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5039:6936" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5078:6921" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5100:6900" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5123:5537" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5150:5247" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5274:5350" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5377:5513" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5560:5975" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5587:5685" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5712:5788" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5815:5951" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="5998:6415" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="6025:6125" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="6152:6228" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="6255:6391" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="6438:6856" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="6465:6566" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="6593:6669" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="6696:6832" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="6977:7724" placeholder="..." />
-                <marker date="1496475745965" expanded="true" signature="7063:7713" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kill_mysql_processlist.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crontab/kill_mysql_processlist.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.066667">
-              <caret line="28" column="77" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="77" />
-              <folding>
-                <marker date="1496492594491" expanded="true" signature="190:388" placeholder="select mc_id... c_mysql_config" />
+                <marker date="1496496557748" expanded="true" signature="893:1037" placeholder="select mc_ho... c_mysql_config" />
               </folding>
             </state>
           </provider>
@@ -670,77 +44,77 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.9">
-              <caret line="109" column="44" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql_list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/mysql_list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="log_processlist_killed.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log_processlist_killed.php">
+        <entry file="file://$PROJECT_DIR$/log/log_processlist_killed.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4044944">
-              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="49" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.db.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/include/config.db.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14092447">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templete/dgfp_42_hr/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.833333">
-              <caret line="112" column="23" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="refresh_mysql_processlist.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ajax/refresh_mysql_processlist.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.066667">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-              <folding>
-                <marker date="1496473376071" expanded="true" signature="190:372" placeholder="select mc_id... c_mysql_config" />
-                <marker date="1496473376071" expanded="true" signature="190:380" placeholder="select mc_id... c_mysql_config" />
-                <marker date="1496473376071" expanded="true" signature="190:388" placeholder="select mc_id... c_mysql_config" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mysql_list.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql_list.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.733333">
-              <caret line="93" column="88" selection-start-line="93" selection-start-column="88" selection-end-line="93" selection-end-column="88" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#label#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#form#1;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="linux_list.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linux_list.php">
+        <entry file="file://$PROJECT_DIR$/config/linux_list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.8202247">
-              <caret line="88" column="82" selection-start-line="88" selection-start-column="82" selection-end-line="88" selection-end-column="141" />
+            <state vertical-scroll-proportion="-21.9">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
-                <marker date="1496472141662" expanded="true" signature="4764:4773" placeholder="..." />
-                <marker date="1496472141662" expanded="true" signature="4915:4926" placeholder="..." />
+                <marker date="1497756609816" expanded="true" signature="4893:4902" placeholder="..." />
+                <marker date="1497756609816" expanded="true" signature="5044:5055" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kill_mysql_processlist.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crontab/kill_mysql_processlist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.15445322">
+              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+              <folding>
+                <marker date="1499877514937" expanded="true" signature="271:469" placeholder="select mc_id... c_mysql_config" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/common.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linux_status.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/linux_status.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="117" column="30" selection-start-line="117" selection-start-column="30" selection-end-line="117" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1497678891963" expanded="true" signature="1141:1195" placeholder="select mc_ho... c_mysql_config" />
+                <marker date="1497678891963" expanded="true" signature="3620:3677" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -760,16 +134,20 @@
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/mysql_config.php" />
         <option value="$PROJECT_DIR$/phpinfo.php" />
-        <option value="$PROJECT_DIR$/include/common.inc.php" />
-        <option value="$PROJECT_DIR$/linux_list.php" />
-        <option value="$PROJECT_DIR$/ajax/refresh_mysql_processlist.php" />
         <option value="$PROJECT_DIR$/ajax/kill_mysql_processlist.php" />
+        <option value="$PROJECT_DIR$/include/config.db.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/crontab/kill_mysql_processlist.php" />
+        <option value="$PROJECT_DIR$/ajax/refresh_mysql_processlist.php" />
         <option value="$PROJECT_DIR$/log_processlist_killed.php" />
         <option value="$PROJECT_DIR$/mysql_list.php" />
-        <option value="$PROJECT_DIR$/include/config.db.php" />
+        <option value="$PROJECT_DIR$/linux_list.php" />
+        <option value="$PROJECT_DIR$/config/mysql_list.php" />
+        <option value="$PROJECT_DIR$/log/log_processlist_killed.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/include/common.inc.php" />
+        <option value="$PROJECT_DIR$/dashboard/linux_status.php" />
+        <option value="$PROJECT_DIR$/config/linux_list.php" />
+        <option value="$PROJECT_DIR$/crontab/kill_mysql_processlist.php" />
       </list>
     </option>
   </component>
@@ -813,7 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -842,7 +220,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpCluster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -860,23 +266,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpCluster" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpCluster" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ajax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -884,9 +276,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\phpCluster\log" />
+      <recent name="F:\phpCluster\config" />
       <recent name="F:\phpCluster\crontab" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\phpCluster\dashboard" />
       <recent name="F:\phpCluster" />
       <recent name="F:\phpCluster\ajax" />
     </key>
@@ -935,7 +330,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -976,36 +371,74 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1496496557748" expanded="true" signature="893:1037" placeholder="select mc_ho... c_mysql_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mysql_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/log_processlist_killed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/linux_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <marker date="1497756609816" expanded="true" signature="4893:4902" placeholder="..." />
+            <marker date="1497756609816" expanded="true" signature="5044:5055" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/common.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/linux_status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="30" selection-start-line="117" selection-start-column="30" selection-end-line="117" selection-end-column="30" />
+          <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1496475745965" expanded="true" signature="947:1091" placeholder="select mc_ho... c_mysql_config" />
-            <marker date="1496475745965" expanded="true" signature="4620:7731" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="4650:6947" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="4686:4972" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="4735:4881" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5039:6936" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5078:6921" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5100:6900" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5123:5537" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5150:5247" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5274:5350" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5377:5513" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5560:5975" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5587:5685" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5712:5788" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5815:5951" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5998:6415" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6025:6125" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6152:6228" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6255:6391" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6438:6856" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6465:6566" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6593:6669" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6696:6832" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6977:7724" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="7063:7713" placeholder="..." />
+            <marker date="1497678891963" expanded="true" signature="1141:1195" placeholder="select mc_ho... c_mysql_config" />
+            <marker date="1497678891963" expanded="true" signature="3620:3677" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496496557748" expanded="true" signature="893:1037" placeholder="select mc_ho... c_mysql_config" />
           </folding>
         </state>
       </provider>
@@ -1014,7 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,13 +458,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql_list.php">
+    <entry file="file://$PROJECT_DIR$/config/mysql_list.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#label#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#form#1;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16528925">
           <caret line="4" column="74" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1072,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,17 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-67.833336">
           <caret line="647" column="0" selection-start-line="647" selection-start-column="0" selection-end-line="647" selection-end-column="0" />
-          <folding>
-            <marker date="1496418886540" expanded="true" signature="9408:9454" placeholder="select ${{$f... " />
-            <marker date="1496418886540" expanded="true" signature="9513:9539" placeholder="select ${{$f... " />
-            <marker date="1496418886540" expanded="true" signature="12472:12563" placeholder="..." />
-            <marker date="1496418886540" expanded="true" signature="12577:12643" placeholder="..." />
-            <marker date="1496418886540" expanded="true" signature="12702:12804" placeholder="..." />
-            <marker date="1496418886540" expanded="true" signature="12817:12862" placeholder="..." />
-            <marker date="1496418886540" expanded="true" signature="12881:12891" placeholder="..." />
-            <marker date="1496418886540" expanded="true" signature="13019:13029" placeholder="..." />
-            <marker date="1496418886540" expanded="true" signature="13103:13113" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1098,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.3333333">
           <caret line="136" column="11" selection-start-line="136" selection-start-column="8" selection-end-line="258" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1106,7 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.6666667">
           <caret line="1324" column="12" selection-start-line="1324" selection-start-column="1" selection-end-line="1324" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1114,15 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.8333333">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/common.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.833333">
-          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1130,67 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.8333335">
           <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8202247">
-          <caret line="88" column="82" selection-start-line="88" selection-start-column="82" selection-end-line="88" selection-end-column="141" />
-          <folding>
-            <marker date="1496472141662" expanded="true" signature="4764:4773" placeholder="..." />
-            <marker date="1496472141662" expanded="true" signature="4915:4926" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/refresh_mysql_processlist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.066667">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-          <folding>
-            <marker date="1496473376071" expanded="true" signature="190:372" placeholder="select mc_id... c_mysql_config" />
-            <marker date="1496473376071" expanded="true" signature="190:380" placeholder="select mc_id... c_mysql_config" />
-            <marker date="1496473376071" expanded="true" signature="190:388" placeholder="select mc_id... c_mysql_config" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-45.833332">
-          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1496475745965" expanded="true" signature="947:1091" placeholder="select mc_ho... c_mysql_config" />
-            <marker date="1496475745965" expanded="true" signature="4620:7731" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="4650:6947" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="4686:4972" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="4735:4881" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5039:6936" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5078:6921" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5100:6900" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5123:5537" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5150:5247" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5274:5350" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5377:5513" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5560:5975" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5587:5685" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5712:5788" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5815:5951" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="5998:6415" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6025:6125" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6152:6228" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6255:6391" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6438:6856" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6465:6566" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6593:6669" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6696:6832" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="6977:7724" placeholder="..." />
-            <marker date="1496475745965" expanded="true" signature="7063:7713" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1198,51 +541,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.833333">
           <caret line="112" column="23" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/config.db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/refresh_mysql_processlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mysql_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.9">
-          <caret line="109" column="44" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log_processlist_killed.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4044944">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        <state vertical-scroll-proportion="-0.8333333">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1496496557748" expanded="true" signature="893:1037" placeholder="select mc_ho... c_mysql_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/common.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/linux_status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="30" selection-start-line="117" selection-start-column="30" selection-end-line="117" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1497678891963" expanded="true" signature="1141:1195" placeholder="select mc_ho... c_mysql_config" />
+            <marker date="1497678891963" expanded="true" signature="3620:3677" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/linux_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.9">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <marker date="1497756609816" expanded="true" signature="4893:4902" placeholder="..." />
+            <marker date="1497756609816" expanded="true" signature="5044:5055" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34653464">
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/log_processlist_killed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crontab/kill_mysql_processlist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.066667">
-          <caret line="28" column="77" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.15445322">
+          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
           <folding>
-            <marker date="1496492594491" expanded="true" signature="190:388" placeholder="select mc_id... c_mysql_config" />
+            <marker date="1499877514937" expanded="true" signature="271:469" placeholder="select mc_id... c_mysql_config" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.733333">
-          <caret line="93" column="88" selection-start-line="93" selection-start-column="88" selection-end-line="93" selection-end-column="88" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#label#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#form#1;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/config.db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14092447">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
