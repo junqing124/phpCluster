@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69dd716e-208d-4188-8bc1-e262c6f2d52c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crontab/kill_mysql_processlist.php" afterPath="$PROJECT_DIR$/crontab/kill_mysql_processlist.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/config.db.php" afterPath="$PROJECT_DIR$/include/config.db.php" />
-    </list>
+    <list default="true" id="69dd716e-208d-4188-8bc1-e262c6f2d52c" name="Default" comment="" />
     <ignored path="phpCluster.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
