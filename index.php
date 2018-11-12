@@ -36,7 +36,7 @@ $page_title = '首页';
     {
     ?>
     <div class="block">
-        <a class="block-heading"><?php echo $mysql_info['mc_host'] ?></a>
+        <a class="block-heading"><?php echo $mysql_info['mc_host'] ?>(mysql -e 'show processlist')</a>
         <div class="block-body collapse in" style="margin-top: 10px;">
 
             <div class="stat-widget-container" style="text-align: left">

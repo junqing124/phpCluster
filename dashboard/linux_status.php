@@ -42,7 +42,6 @@ switch( $type )
     </div>
 
     <?php
-    //这里是mysql processlist
     $cls_data_mc = new cls_data('c_linux_config');
     $linux_list = $cls_data_mc->execute( "select lc_host,lc_user,lc_password from c_linux_config" );
     ?>
@@ -50,7 +49,9 @@ switch( $type )
     foreach( $linux_list as $linux_info )
     {
         $ssh = new Net_SSH2( $linux_info['lc_host'] );
-        if( $ssh->login( $linux_info['lc_user'], $linux_info['lc_password'] ) )
+        if( ! $ssh->login( $linux_info['lc_user'], $linux_info['lc_password'] ) )
+        {
+        }else
         {
             $msg = $ssh->exec($cmd);
             $result = array();

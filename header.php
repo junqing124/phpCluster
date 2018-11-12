@@ -104,6 +104,7 @@ if (empty($page_title))
     <ul id="error-menu" class="nav nav-list collapse in">
         <li ><a href="/config/mysql_list.php">Mysql</a></li>
         <li ><a href="/config/linux_list.php">Linux</a></li>
+        <li ><a href="/config/linux_group.php">Linux分组</a></li>
     </ul>
 
     <a href="#legal-menu" class="nav-header" data-toggle="collapse"><i class="icon-exclamation-sign"></i>日志 </a>

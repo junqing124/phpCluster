@@ -3,6 +3,7 @@ include_once( "../include/common.inc.php" );
 
 $page_title = 'Linux列表';
 $cls_data_lc = new cls_data('c_linux_config');
+$cls_data_lcg = new cls_data('c_linux_config_group');
 if( 'linux_add' == $action )
 {
     if( empty( $linux_host ) || empty( $linux_port ) || empty( $linux_user ) || empty( $linux_password ) )
@@ -14,6 +15,8 @@ if( 'linux_add' == $action )
             'lc_host'=> $linux_host,
             'lc_port'=> $linux_port,
             'lc_user'=> $linux_user,
+            'lc_name'=> $linux_name,
+            'lc_group_id'=> $linux_group_id,
             'lc_password'=> $linux_password,
             'lc_add_time'=> time(),
         );
@@ -39,6 +42,8 @@ if( 'linux_edit' == $action )
         'lc_host'=> $linux_host,
         'lc_port'=> $linux_port,
         'lc_user'=> $linux_user,
+        'lc_name'=> $linux_name,
+        'lc_group_id'=> $linux_group_id,
         'lc_update_time'=> time(),
     );
 
@@ -59,7 +64,12 @@ if( 'linux_config' == $action )
         }
     }
 }
-$linux_list = $cls_data_lc->select_ex();
+$where_option = array();
+if( $group_id )
+{
+    $where_option[] = "lc_group_id={$group_id}";
+}
+$linux_list = $cls_data_lc->select_ex( array( 'where'=> $where_option, 'join'=> "left join c_linux_config_group on lcg_id=lc_group_id" ) );
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -85,21 +95,42 @@ $linux_list = $cls_data_lc->select_ex();
                 <div class="well"><form action="#" method="post">
                         <input type="hidden" value="<?php echo 'linux_edit_detail' == $action ? 'linux_edit' : 'linux_add'; ?>" name="action">
                         <input type="hidden" value="<?php echo $linux_info_detail['lc_id'] ?>" name="id">
-                        SSH地址:<input name="linux_host" value="<?php echo $linux_info_detail['lc_host'] ?>" class="input-small" type="text">
-                        端口:<input name="linux_port" value="<?php echo $linux_info_detail['lc_port'] ?>" class="input-small" type="text">
-                        用户:<input name="linux_user" value="<?php echo $linux_info_detail['lc_user'] ?>" class="input-small" type="text">
+                        名称:<input required name="linux_name" value="<?php echo $linux_info_detail['lc_name'] ?>" class="input-small" type="text">
+                        SSH地址:<input required name="linux_host" value="<?php echo $linux_info_detail['lc_host'] ?>" class="input-small" type="text">
+                        端口:<input required name="linux_port" value="<?php echo $linux_info_detail['lc_port'] ?>" class="input-small" type="text">
+                        用户:<input required name="linux_user" value="<?php echo $linux_info_detail['lc_user'] ?>" class="input-small" type="text">
                         密码:<input name="linux_password" value="" class="input-small" type="text">
+                        分组:<select style="width: 100px;" required name="linux_group_id" id="linux_group_id">
+                            <option value="">请选择</option>
+                            <?php
+                            $linux_group_list = $cls_data_lcg->select_ex();
+                            foreach( $linux_group_list as $group_info )
+                            {
+                                echo "<option value='{$group_info['lcg_id']}'>{$group_info['lcg_name']}</option>";
+                            }
+                            ?>
+                        </select>
+                        <?php select_value( $linux_group_id, 'linux_group_id' ) ?>
                         <button class="btn btn-primary"><i class="icon-plus"></i> <?php echo 'linux_edit_detail' == $action ? '修改' : '添加'; ?></button>
                         Linux主机请改/etc/ssh/sshd_config里的UseDns为no，加快连接速度
                     </form>
+                    <div><a href="?check_ssh=1">测试服务器是否通</a> 分组:
+                        <?php
+                        $linux_group_list = $cls_data_lcg->select_ex();
+                        foreach( $linux_group_list as $group_info )
+                        {
+                            echo " <a href='?group_id={$group_info['lcg_id']}'>{$group_info['lcg_name']}</a>";
+                        }
+                        ?></div>
                     <form action="#" method="post">
                         <input type="hidden" value="linux_config" name="action">
                     <table class="table">
                         <thead>
                         <tr>
                             <th>ID</th>
-                            <th>地址</th>
+                            <th>信息</th>
                             <th>SSH测试</th>
+                            <th>分组</th>
                             <!--<th>首页显示processlist</th>
                             <th>首页自动刷新processlist</th>-->
                             <th>操作</th>
@@ -114,19 +145,23 @@ $linux_list = $cls_data_lc->select_ex();
                             <td>
                                 <input type="hidden" value="<?php echo $linux_info['lc_id'] ?>" name="lc_id[<?php echo $linux_info['lc_id'] ?>]">
                                 <?php echo $linux_info['lc_id'] ?></td>
-                            <td><?php echo $linux_info['lc_host'] ?></td>
+                            <td><?php echo $linux_info['lc_name'] ?>[<?php echo $linux_info['lc_host'] ?>]</td>
                             <td>
                                 <?php
-                                $ssh = new Net_SSH2( $linux_info['lc_host'] );
-                                if( !$ssh->login( $linux_info['lc_user'], $linux_info['lc_password'] ) )
+                                if( $check_ssh )
                                 {
-                                    echo '<span style="color:red">NO</span>';
-                                } else
-                                {
-                                    echo '<span style="color:green">OK</span>';
+                                    $ssh = new Net_SSH2( $linux_info['lc_host'] );
+                                    if( !$ssh->login( $linux_info['lc_user'], $linux_info['lc_password'] ) )
+                                    {
+                                        echo '<span style="color:red">NO</span>';
+                                    } else
+                                    {
+                                        echo '<span style="color:green">OK</span>';
+                                    }
                                 }
                                 ?>
                             </td>
+                            <td><?php echo $linux_info['lcg_name'] ?></td>
                             <td>
                                 <a href="?action=linux_edit_detail&id=<?php echo $linux_info['lc_id'] ?>">修改</a>
                                 <a onclick="return confirm('确定删除<?php echo $mysql_info['lc_host'] ?>?')" href="?action=linux_del&id=<?php echo $linux_info['lc_id'] ?>">删除</a>

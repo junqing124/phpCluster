@@ -29,7 +29,8 @@ if( !$ssh->login( $mysql_info['lc_user'], $mysql_info['lc_password'] ) )
         $sql = trim( $tmp[7] );
         //insert update 和语句中有/*!99999 nokill */不kill
         $sql_up = strtolower( $sql );
-        if( $cur_time >= $kill_sec && ! strstr( $sql_up, 'replace' ) && ! strstr( $sql_up, 'delete' ) && ! strstr( $sql_up, 'insert' ) && ! strstr( $sql_up, 'update' ) && ! strpos( $sql, '/* 99999 nokill */' ) )
+		$sql_qz = substr( $sql_up, 0, 10 );
+        if( $cur_time >= $kill_sec && ! strstr( $sql_qz, 'replace' ) && ! strstr( $sql_qz, 'delete' ) && ! strstr( $sql_qz, 'insert' ) && ! strstr( $sql_qz, 'update' ) && ! strpos( $sql_up, '/* 99999 nokill */' ) )
         {
             $cmd = "mysql -h {$mysql_info['mc_host']} -u{$mysql_info['mc_user']} -p{$mysql_info['mc_password']} -e 'kill {$cur_id}'";
             $info_detail = array(
