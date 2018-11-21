@@ -3,10 +3,10 @@ include_once( "../include/common.inc.php" );
 
 $cls_data_mc = new cls_data('c_mysql_config');
 $error_msg = '';
+$page_title = '操作服务器';
 
-if( 'mysql_select' == $type )
+if( 'select_sql' == $command )
 {
-    $page_title = '执行select ';
     if( $select_sql )
     {
         $select_sql_lower = strtolower( $select_sql );
@@ -20,8 +20,20 @@ if( 'mysql_select' == $type )
             $select_sql = str_replace( "\'", '"', $select_sql );
             //开始执行
             $mysql_list = $cls_data_mc->execute( "select mc_id,mc_host,mc_user,mc_password,lc_id,lc_host,lc_user,lc_password from c_mysql_config inner join c_linux_config on mc_host=lc_host where lc_group_id={$group_id}" );
+
         }
     }
+}
+if( 'show_slave_status' == $command )
+{
+    $mysql_list = $cls_data_mc->execute( "select mc_id,mc_host,mc_user,mc_password,lc_id,lc_host,lc_user,lc_password from c_mysql_config inner join c_linux_config on mc_host=lc_host where lc_group_id={$group_id}" );
+    $select_sql = 'show slave status';
+}
+if( 'show_crontab' == $command )
+{
+    $mysql_list = $cls_data_mc->execute( "select lc_id,lc_host,lc_user,lc_password from c_linux_config where find_in_set({$group_id},lc_group_id)" );
+    //p_r( $mysql_list );
+    $linux_command = 'cat /var/spool/cron/root';
 }
 ?>
 <!DOCTYPE html>
@@ -39,17 +51,41 @@ if( 'mysql_select' == $type )
         </ul>
         <div class="container-fluid">
             <div class="row-fluid">
-                <?php if( $error_msg ){ ?>
+                <?php
+                //var_dump( $error_msg );
+                if( $error_msg ){ ?>
                 <div class="error" style="color:red;">
                     <?php echo $error_msg; ?>
                 </div>
                 <?php } ?>
                 <div class="well">
+                    <?php
+                    //mysql块
+                    if( 'mysql_option' == $type )
+                    {
+                    ?>
                     <form action="#" method="post">
-                        <input type="hidden" value="type" name="action">
-                        select sql:<input name="select_sql" value="<?php echo $select_sql ?>" class="input-large" style="width: 400px;" type="text">
-                        <button class="btn btn-primary"><i class="icon-plus"></i>搜索</button>
+                        <input type="hidden" value="select_sql" name="command">
+                        database name:<input name="database_name" value="<?php echo $database_name ?>" class="input-large" style="width: 100px;" type="text"> select sql:<input name="select_sql" value="<?php echo $select_sql ?>" class="input-large" style="width: 400px;" type="text">
+                        <button class="btn btn-primary">搜索</button>
                     </form>
+                    <form action="#" method="post">
+                        <input type="hidden" value="show_slave_status" name="command">
+                        <button class="btn btn-primary">show slave status</button>
+                    </form>
+                    <?php
+                    }
+                    //linux块
+                    if( 'linux_option' == $type )
+                    {
+                        ?>
+                        <form action="#" method="post">
+                            <input type="hidden" value="show_crontab" name="command">
+                            <button class="btn btn-primary">show crontab</button>
+                        </form>
+                        <?php
+                    }
+                    ?>
                     <?php
                     if( $mysql_list )
                     {
@@ -57,7 +93,7 @@ if( 'mysql_select' == $type )
                         {
                     ?>
                             <div class="block">
-                                <a class="block-heading"><?php echo $mysql_info['mc_host'] ?></a>
+                                <a class="block-heading"><?php echo $mysql_info['lc_host'] ?></a>
                                 <div class="block-body collapse in" style="margin-top: 10px;">
 
                                     <div class="stat-widget-container" style="text-align: left">
@@ -70,9 +106,16 @@ if( 'mysql_select' == $type )
                                             $result['msg'] = '登陆失败';
                                         } else
                                         {
-                                            if( 'mysql_select' == $type )
+                                            if( 'mysql_option' == $type )
                                             {
-                                                $cmd = "mysql -h {$mysql_info['mc_host']} -u{$mysql_info['mc_user']} -p{$mysql_info['mc_password']} -e '{$select_sql}'";
+                                                $msg = $ssh->exec( $cmd );
+                                                $cmd = "mysql -h {$mysql_info['mc_host']} -u{$mysql_info['mc_user']} -p{$mysql_info['mc_password']} -e 'use '{$database_name}';{$select_sql}'";
+                                                $msg = $ssh->exec( $cmd );
+                                                p_r( $msg );
+                                            }
+                                            if( 'linux_option' == $type )
+                                            {
+                                                $cmd = $linux_command;
                                                 $msg = $ssh->exec( $cmd );
                                                 p_r( $msg );
                                             }

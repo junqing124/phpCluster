@@ -62,7 +62,7 @@ $linux_group_list = $cls_data_lcg->select_ex();
                         <tr>
                             <th>ID</th>
                             <th>分组</th>
-                            <th>操作</th>
+                            <th width="100">操作</th>
                             <th>拥有主机</th>
                         </tr>
                         </thead>
@@ -76,13 +76,13 @@ $linux_group_list = $cls_data_lcg->select_ex();
                                 <input type="hidden" value="<?php echo $group_info['lcg_id'] ?>" name="lc_id[<?php echo $group_info['lcg_id'] ?>]">
                                 <?php echo $group_info['lcg_id'] ?></td>
                             <td><?php echo $group_info['lcg_name'] ?></td>
-                            <td><a target="_blank" href="linux_group_option.php?group_id=<?php echo $group_info['lcg_id']; ?>&type=mysql_select">执行select</a></td>
-                            <td>
+                            <td><a target="_blank" href="linux_group_option.php?group_id=<?php echo $group_info['lcg_id']; ?>&type=mysql_option">操作mysql</a><br><a target="_blank" href="linux_group_option.php?group_id=<?php echo $group_info['lcg_id']; ?>&type=linux_option">操作linux</a></td>
+                            <td style="word-break: break-all">
                                 <?php
-                                    $linux_list = $cls_data_lc->select_ex( array( 'where'=> "lc_group_id={$group_info['lcg_id']}" ) );
+                                    $linux_list = $cls_data_lc->select_ex( array( 'where'=> "find_in_set({$group_info['lcg_id']},lc_group_id)" ) );
                                     foreach( $linux_list as $linux_info )
                                     {
-                                        echo $linux_info['lc_name'];
+                                        echo $linux_info['lc_name'] . '-';
                                     }
                                 ?>
                             </td>

@@ -73,3 +73,5 @@ ALTER TABLE `c_mysql_config`
 ALTER TABLE `c_mysql_kill_detail`
   MODIFY `cmkd_id` int(11) NOT NULL AUTO_INCREMENT;
 COMMIT;
+
+ALTER TABLE `c_linux_config` CHANGE `lc_group_id` `lc_group_id` VARCHAR(100) NOT NULL;

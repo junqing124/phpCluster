@@ -25,8 +25,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-27.84375">
-              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="47" selection-end-column="14" />
+            <state vertical-scroll-proportion="-26.15625">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="24" />
               <folding>
                 <marker date="1530930219121" expanded="true" signature="893:1037" placeholder="select mc_ho... c_mysql_config" />
               </folding>
@@ -34,24 +34,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
+      <file leaf-file-name="linux_group_option.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/linux_group_option.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="105" column="40" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="40" />
-              <folding />
+            <state vertical-scroll-proportion="2.4338942">
+              <caret line="120" column="45" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1542796762055" expanded="true" signature="601:759" placeholder="select mc_id... c_mysql_config" />
+                <marker date="1542796762055" expanded="true" signature="876:1034" placeholder="select mc_id... c_mysql_config" />
+                <marker date="1542796762055" expanded="true" signature="1168:1235" placeholder="select lc_id... c_linux_config" />
+                <marker date="1542796762055" expanded="true" signature="1168:1271" placeholder="select lc_id... c_linux_config" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linux_group_option.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/linux_group_option.php">
+      <file leaf-file-name="linux_group.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/linux_group.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49419954">
-              <caret line="65" column="106" selection-start-line="65" selection-start-column="95" selection-end-line="65" selection-end-column="106" />
+            <state vertical-scroll-proportion="-59.0625">
+              <caret line="70" column="54" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="54" />
               <folding>
-                <marker date="1536725074253" expanded="true" signature="608:766" placeholder="select mc_id... c_mysql_config" />
-                <marker date="1536725074253" expanded="true" signature="1930:1951" placeholder="..." />
+                <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#form#1;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,8 +88,10 @@
         <entry file="file://$PROJECT_DIR$/crontab/kill_mysql_processlist.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
-              <folding />
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <marker date="1542072445844" expanded="true" signature="269:421" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,11 +99,14 @@
       <file leaf-file-name="linux_list.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/linux_list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="145" selection-start-line="61" selection-start-column="121" selection-end-line="61" selection-end-column="145" />
+            <state vertical-scroll-proportion="40.822582">
+              <caret line="82" column="2" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
               <folding>
-                <marker date="1530934549214" expanded="true" signature="6749:6758" placeholder="..." />
-                <marker date="1530934549214" expanded="true" signature="6912:6923" placeholder="..." />
+                <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#4;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1542253996489" expanded="true" signature="7199:7208" placeholder="..." />
+                <marker date="1542253996489" expanded="true" signature="7362:7373" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -127,10 +139,11 @@
         <option value="$PROJECT_DIR$/dashboard/linux_status.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/config/linux_group_mysql.php" />
+        <option value="$PROJECT_DIR$/phpcluster.sql" />
         <option value="$PROJECT_DIR$/config/linux_list.php" />
         <option value="$PROJECT_DIR$/config/linux_group.php" />
         <option value="$PROJECT_DIR$/config/linux_group_option.php" />
-        <option value="$PROJECT_DIR$/phpcluster.sql" />
       </list>
     </option>
   </component>
@@ -231,16 +244,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\phpCluster\log" />
-      <recent name="F:\phpCluster\config" />
-      <recent name="F:\phpCluster\crontab" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\phpCluster\config" />
       <recent name="F:\phpCluster\dashboard" />
       <recent name="F:\phpCluster" />
       <recent name="F:\phpCluster\ajax" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\phpCluster\log" />
+      <recent name="F:\phpCluster\config" />
+      <recent name="F:\phpCluster\crontab" />
     </key>
   </component>
   <component name="RunManager">
@@ -287,10 +300,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19829424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20042644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -344,8 +357,11 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <marker date="1530934549214" expanded="true" signature="6749:6758" placeholder="..." />
-            <marker date="1530934549214" expanded="true" signature="6912:6923" placeholder="..." />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#4;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1542253996489" expanded="true" signature="7199:7208" placeholder="..." />
+            <marker date="1542253996489" expanded="true" signature="7362:7373" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -354,7 +370,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1542072445844" expanded="true" signature="269:421" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -409,8 +427,11 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <marker date="1530934549214" expanded="true" signature="6749:6758" placeholder="..." />
-            <marker date="1530934549214" expanded="true" signature="6912:6923" placeholder="..." />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#4;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1542253996489" expanded="true" signature="7199:7208" placeholder="..." />
+            <marker date="1542253996489" expanded="true" signature="7362:7373" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -419,7 +440,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1542072445844" expanded="true" signature="269:421" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -474,8 +497,11 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1530934549214" expanded="true" signature="6749:6758" placeholder="..." />
-            <marker date="1530934549214" expanded="true" signature="6912:6923" placeholder="..." />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#4;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1542253996489" expanded="true" signature="7199:7208" placeholder="..." />
+            <marker date="1542253996489" expanded="true" signature="7362:7373" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -645,47 +671,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/linux_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="145" selection-start-line="61" selection-start-column="121" selection-end-line="61" selection-end-column="145" />
-          <folding>
-            <marker date="1530934549214" expanded="true" signature="6749:6758" placeholder="..." />
-            <marker date="1530934549214" expanded="true" signature="6912:6923" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-27.84375">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="47" selection-end-column="14" />
-          <folding>
-            <marker date="1530930219121" expanded="true" signature="893:1037" placeholder="select mc_ho... c_mysql_config" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/linux_group.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9083527">
-          <caret line="78" column="125" selection-start-line="78" selection-start-column="125" selection-end-line="78" selection-end-column="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="105" column="40" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crontab/kill_mysql_processlist.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
-          <folding />
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1542072445844" expanded="true" signature="269:421" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -705,21 +697,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031322505">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/phpcluster.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7732697">
-          <caret line="66" column="3" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.8389022">
+          <caret line="76" column="86" selection-start-line="76" selection-start-column="86" selection-end-line="76" selection-end-column="86" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.15625">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <marker date="1530930219121" expanded="true" signature="893:1037" placeholder="select mc_ho... c_mysql_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/linux_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="40.822582">
+          <caret line="82" column="2" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#4;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1542253996489" expanded="true" signature="7199:7208" placeholder="..." />
+            <marker date="1542253996489" expanded="true" signature="7362:7373" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/linux_group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-59.0625">
+          <caret line="70" column="54" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#form#1;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/linux_group_option.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49419954">
-          <caret line="65" column="106" selection-start-line="65" selection-start-column="95" selection-end-line="65" selection-end-column="106" />
+        <state vertical-scroll-proportion="2.4338942">
+          <caret line="120" column="45" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="45" />
           <folding>
-            <marker date="1536725074253" expanded="true" signature="608:766" placeholder="select mc_id... c_mysql_config" />
-            <marker date="1536725074253" expanded="true" signature="1930:1951" placeholder="..." />
+            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1542796762055" expanded="true" signature="601:759" placeholder="select mc_id... c_mysql_config" />
+            <marker date="1542796762055" expanded="true" signature="876:1034" placeholder="select mc_id... c_mysql_config" />
+            <marker date="1542796762055" expanded="true" signature="1168:1235" placeholder="select lc_id... c_linux_config" />
+            <marker date="1542796762055" expanded="true" signature="1168:1271" placeholder="select lc_id... c_linux_config" />
           </folding>
         </state>
       </provider>
