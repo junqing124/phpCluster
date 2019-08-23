@@ -38,7 +38,7 @@ if( 'mysql_edit' == $action )
         $info['mc_password'] = $mysql_password;
     }
     $cls_data_mc->update_one( $info, "mc_id={$id}" );
-    echo $cls_data_mc->get_last_sql();
+    //echo $cls_data_mc->get_last_sql();
 }
 if( 'mysql_del' == $action )
 {
